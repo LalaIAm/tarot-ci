@@ -1,0 +1,88 @@
+// Primary
+$primary-900: #270850;
+$primary-875: #2e095e;
+$primary-800: #410b86;
+$primary-700: #550db0;
+$primary-575: #822bf4;
+$primary-450: #a866f6;
+$primary-275: #cb9efa;
+$primary-100: #ecddf9;
+
+// Sunflower
+$sunflower-900: #1f1c04;
+$sunflower-875: #252103;
+$sunflower-800: #343000;
+$sunflower-700: #4c4600;
+$sunflower-575: #6b6300;
+$sunflower-450: #928700;
+$sunflower-275: #c0b201;
+$sunflower-100: #ebda24;
+
+// Neutral
+$neutral-900: #0a0a0a;
+$neutral-875: #212121;
+$neutral-800: #2f2f2f;
+$neutral-700: #454545;
+$neutral-575: #626262;
+$neutral-450: #868686;
+$neutral-275: #b0b0b0;
+$neutral-100: #e2e2e2;
+
+// Success
+$success-900: #171e0a;
+$success-875: #1a240b;
+$success-800: #23340d;
+$success-700: #324d11;
+$success-575: #486c1c;
+$success-450: #64932a;
+$success-275: #8fd040;
+$success-100: #b4f565;
+
+// Caution
+$caution-900: #1f1c02;
+$caution-875: #242101;
+$caution-800: #333000;
+$caution-700: #4a4700;
+$caution-575: #686400;
+$caution-450: #8f8900;
+$caution-275: #bcb300;
+$caution-100: #f4e931;
+
+// Danger
+$danger-900: #321105;
+$danger-875: #3e1105;
+$danger-800: #5f0d04;
+$danger-700: #8d0507;
+$danger-575: #c2090f;
+$danger-450: #e40d14;
+$danger-275: #fe9279;
+$danger-100: #fbdbd3;
+
+// Info
+$info-900: #081d31;
+$info-875: #09223a;
+$info-800: #0a3253;
+$info-700: #0d4978;
+$info-575: #1b77bf;
+$info-450: #228de0;
+$info-275: #7bb6fb;
+$info-100: #d6e4fa;
+
+// Dark Blue
+$dark-blue-900: #121257;
+$dark-blue-875: #131566;
+$dark-blue-800: #181e91;
+$dark-blue-700: #2435eb;
+$dark-blue-575: #514af4;
+$dark-blue-450: #8a75f6;
+$dark-blue-275: #b8a6f9;
+$dark-blue-100: #e6dff9;
+
+$primary: $primary-700;
+$secondary: $sunflower-100;
+$tertiary: $dark-blue-700;
+$dark: $neutral-900;
+$success: $success-275;
+$caution: $caution-100;
+$danger: $danger-450;
+$info: $info-700;
