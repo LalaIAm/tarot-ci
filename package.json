@@ -13,6 +13,7 @@
     "cy:record": "cypress run --record --key aba59ea6-54bc-408f-a4e5-fe314fdc8f2f"
   },
   "dependencies": {
+    "@alwaysmeticulous/recorder-loader": "^2.92.0",
     "bootstrap": "^5.3.2",
     "firebase": "^10.7.0",
     "react": "^18.2.0",
